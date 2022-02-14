@@ -1,0 +1,4 @@
+adidas*45
+nike*100
+slippers*500
+meow*10
